@@ -1,4 +1,4 @@
-# SMGBistro
+ <h1 align="center">SMG Bistroo</h1>
  
  
  <p align="center">Esse Aplicativo tem como objetivo, fazer o cadastro de produtos e receitas do SMG Bistro</p>
