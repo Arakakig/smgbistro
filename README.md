@@ -1,9 +1,9 @@
-# smgbistro
+### SMGBistro
  
  
  <p align="center">Esse Aplicativo tem como objetivo, fazer o cadastro de produtos e receitas do SMG Bistro</p>
 
-### Pré-requisitos:
+## Pré-requisitos:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Node.js](https://nodejs.org/en/). 
